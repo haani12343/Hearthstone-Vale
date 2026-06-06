@@ -1,0 +1,13 @@
+
+
+Hearthstone Vale is a cozy single-player offline medieval life simulation game where there are no enemies, no deadlines, no stress — just a breathtaking handcrafted world full of warmth, life, and endless things to discover. The game takes place across three distinct and lovingly designed villages, each with its own unique personality and charm. Stonepeak sits high between rugged misty mountains, its stone buildings and ancient watchtowers giving it a dramatic and moody atmosphere. Mirrorfen rests peacefully by a glimmering lake, where wooden docks stretch out over calm water and the reflections of golden sunsets dance on the surface. Thornwood hides deep within an enchanted forest, where moss-covered cottages peek out between towering trees and fireflies light up the night.
+
+From the moment you step into Hearthstone Vale, the world feels alive. Villagers go about their daily routines — farmers tend their fields at dawn, fishermen cast their lines by the water, blacksmiths hammer away in their workshops, and families gather around bonfires as the stars come out at night. Each NPC has a name, a personality, and a story, and the more time you spend with them the more the world begins to feel like a true home.
+
+Players can choose a plot of land in any of the three villages and build their home from the ground up — laying down walls, choosing roofs, placing windows, and filling every room with hand-crafted medieval furniture, rugs, candles, bookshelves, and fireplaces. Outside, you can tend a garden, lay stone pathways, plant flowers, and hang lanterns. No two homes in Hearthstone Vale will ever look the same.
+
+Beyond building, the world is full of things to do at your own pace. Cast a fishing line by the lake and watch the ripples spread across the water. Forage for mushrooms and berries deep in the forest. Grow crops in your garden and cook hearty medieval recipes from ingredients you gather yourself. Craft furniture and decorations, discover hidden ruins and caves, collect ancient scrolls and books that slowly reveal the lore of the world, and on clear nights simply lie back and stare up at a sky full of stars.
+
+The world of Hearthstone Vale breathes with the seasons — spring blossoms give way to golden autumn leaves, soft winter snow blankets the villages, and summer fills the air with warmth and birdsong. Rain patters on rooftops, fog rolls through the mountains, and church bells echo softly in the distance. A gentle acoustic soundtrack of lutes, flutes, and soft drums shifts with the time of day and the place you wander, making every moment feel like a scene from a painting.
+
+Hearthstone Vale is not a game you rush through. It is a place you return to — to unwind, to create, to explore, and to feel at home.
