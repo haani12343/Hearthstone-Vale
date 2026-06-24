@@ -4,6 +4,7 @@ public class MarketTrigger : MonoBehaviour
 {
     public GameObject collectSuppliesText;
     public GameObject supplyPanel;
+    public AudioSource pickupSound;
     private bool playerInMarket = false;
     private bool collecting = false;
     void Update()
@@ -22,6 +23,10 @@ public class MarketTrigger : MonoBehaviour
         collectSuppliesText.SetActive(false);
         supplyPanel.SetActive(true);
         yield return new WaitForSeconds(3f);
+        if (pickupSound != null)
+        {
+            pickupSound.Play();
+        }
         Debug.Log("Supplies Collected!");
         supplyPanel.SetActive(false);
         collecting = false;

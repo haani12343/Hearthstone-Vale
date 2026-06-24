@@ -5,6 +5,7 @@ public class DeliveryManager : MonoBehaviour
     public string currentVillage;
     public GameObject village1Marker;
     public GameObject village2Marker;
+    public AudioSource deliveryCompleteSound;
     private void Awake()
     {
         Instance = this;
@@ -31,6 +32,11 @@ public class DeliveryManager : MonoBehaviour
     }
     public void DeliveryCompleted()
     {
+        if (deliveryCompleteSound != null)
+        {
+            deliveryCompleteSound.Play();
+        }
+        UIManager.Instance.ShowMessage("Delivery Complete!");
         village1Marker.SetActive(false);
         village2Marker.SetActive(false);
         PickNewVillage();
